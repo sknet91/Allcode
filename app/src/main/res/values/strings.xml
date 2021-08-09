@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AllCode</string>
+    <string name="error_field_required">Este Campo es requerido</string>
+    <string name="error_invalid_password">La clave no es valida</string>
+</resources>
